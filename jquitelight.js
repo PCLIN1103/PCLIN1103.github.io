@@ -1,14 +1,4 @@
-/**
- *
- * jQuery Smart Search Query Highlight Plugin
- *
- * @author iamwebdesigner <iamawebgeek@gmail.com>
- * @license Apache License Version 2.0
- *
- * http://www.apache.org/licenses/LICENSE-2.0
- *
- * @version 2.1.0
- */
+
 (function (factory) {
 
 	if (typeof define === "function" && define.amd) {
